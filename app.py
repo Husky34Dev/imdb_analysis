@@ -236,7 +236,6 @@ if __name__ == '__main__':
     print("Archivo 'recommendations.csv' generado correctamente.")
 
     # IMPORTANTE para Power BI:
-    #   - Power BI detectará 'df_recommendations' como objeto DataFrame
     # Mostramos un mensaje final
     print("***** DataFrame FINAL PARA POWER BI *****")
     print(df_recommendations.head(20))
