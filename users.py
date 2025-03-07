@@ -13,26 +13,27 @@ available_genres = [
 special_users = [
     {
         "user_id": "user_superhero",
-        "favorite_movies": "tt0000001, tt0000002",
-        "favorite_actors": "nm0000001, nm0000002",
+        "favorite_movies": "tt4154796, tt0848228",  # Avengers: Endgame, The Avengers
+        "favorite_actors": "nm0000375, nm0262635",    # Robert Downey Jr., Chris Hemsworth
         "average_watch_time": 150,
         "preferred_genres": "Action, Adventure, Fantasy"  # Enfocado en películas de súper héroes
     },
     {
         "user_id": "user_drama",
-        "favorite_movies": "tt0000003, tt0000004",
-        "favorite_actors": "nm0000003, nm0000004",
+        "favorite_movies": "tt0111161, tt0120338",  # The Shawshank Redemption, Titanic
+        "favorite_actors": "nm0000151, nm0000209",    # Tom Hanks, Leonardo DiCaprio
         "average_watch_time": 120,
-        "preferred_genres": "Drama, Romance"  # Enfocado en películas de drama
+        "preferred_genres": "Drama, Romance"         # Enfocado en películas de drama y romance
     },
     {
         "user_id": "user_scifi",
-        "favorite_movies": "tt0000005, tt0000006",
-        "favorite_actors": "nm0000005, nm0000006",
+        "favorite_movies": "tt0133093, tt1375666",  # The Matrix, Inception
+        "favorite_actors": "nm0000206, nm0000138",    # Keanu Reeves, Laurence Fishburne
         "average_watch_time": 130,
-        "preferred_genres": "Sci-Fi, Thriller"  # Enfocado en películas de ciencia ficción
+        "preferred_genres": "Sci-Fi, Thriller"        # Enfocado en películas de ciencia ficción y thriller
     }
 ]
+
 
 # --- Generar Usuarios Aleatorios ---
 # Se crearán 97 usuarios adicionales con datos aleatorios para completar un total de 100.

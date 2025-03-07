@@ -1,0 +1,26 @@
+user_id,tconst,primaryTitle,genres,runtimeMinutes,averageRating,total_score
+user_superhero,tt10872600,Spider-Man: No Way Home,"Action,Adventure,Fantasy",148,8.2,0.87
+user_superhero,tt0080684,El imperio contraataca,"Action,Adventure,Fantasy",124,8.7,0.84
+user_superhero,tt0325980,Piratas del Caribe: La maldición de la Perla Negra,"Action,Adventure,Fantasy",143,8.1,0.84
+user_superhero,tt0086190,El retorno del jedi,"Action,Adventure,Fantasy",131,8.3,0.83
+user_superhero,tt0079579,Moscú no cree en las lágrimas,"Comedy,Drama,Romance",150,8.0,0.27
+user_superhero,tt0067919,Los emigrantes,"Drama,History",151,8.0,0.2
+user_superhero,tt2267998,Perdida,"Drama,Mystery,Thriller",149,8.1,0.2
+user_superhero,tt0070511,Papillon,"Biography,Crime,Drama",151,8.0,0.2
+user_superhero,tt6346162,Newsies: El Musical de Broadway,Musical,149,8.2,0.2
+user_drama,tt30177820,A Maiden's Tale,"Drama,Romance",59,9.5,0.84
+user_drama,tt0071141,Todos nos llamamos Alí,"Drama,Romance",93,8.0,0.83
+user_drama,tt0059573,Un retazo de azul,"Drama,Romance",105,8.0,0.83
+user_drama,tt0244316,Yi yi,"Drama,Romance",173,8.1,0.82
+user_drama,tt1863171,A Canadian Dream,"Action,Crime",120,8.2,0.27
+user_drama,tt1392190,Mad Max: Fúria a la carretera,"Action,Adventure,Sci-Fi",120,8.1,0.27
+user_drama,tt7941892,Ataque a los Titanes. El rugido del despertar,"Action,Animation,Fantasy",120,8.3,0.27
+user_drama,tt33428606,Solo Leveling: ReAwakening,"Action,Adventure,Animation",121,8.4,0.2
+user_drama,tt0076759,La guerra de las galaxias,"Action,Adventure,Fantasy",121,8.6,0.2
+user_scifi,tt17677434,La fiebre de los ricos,"Sci-Fi,Thriller",116,8.4,0.84
+user_scifi,tt12021598,Coronavirus. Apocalypse,"Fantasy,Sci-Fi,Thriller",66,8.0,0.69
+user_scifi,tt0317248,Ciudad de Dios,"Crime,Drama",130,8.6,0.28
+user_scifi,tt0038650,Qué bello es vivir,"Drama,Family,Fantasy",130,8.6,0.28
+user_scifi,tt6966692,Green Book,"Biography,Comedy,Drama",130,8.2,0.27
+user_scifi,tt10554232,Dara of Jasenovac,"Drama,War",130,8.1,0.27
+user_scifi,tt0032976,Rebeca,"Drama,Mystery,Romance",130,8.1,0.27

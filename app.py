@@ -215,7 +215,7 @@ if __name__ == '__main__':
             nn_model,
             n_recommendations=10,
             diversified_ratio=0.5,
-            min_rating=7.0
+            min_rating=8.0 ##Puedes alterar esto para peliculas con mucha nota
         )
         print(recs.to_string(index=False))
 
